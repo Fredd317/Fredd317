@@ -16,6 +16,7 @@
 - Based in Halifax, Nova Scotia, Canada
 - Currently seeking a position for **July 2023 and onwards**! 
 - Frederick.Go@dal.ca or hyeongo0317@gmail.com
+- <a href="https://fred-goes-anywhere.space">My Website 📃</a>
 
 ## My Education 📚
 
@@ -52,7 +53,7 @@
 Technology has been a big part of my life; hence, I am eager to learn all different technical fields such as blockchain, autonomous vehicles, and data science. In addition, I love instrumental music as I have been a woodwind instrument player for over 10 years now. Some of my other passions are Rubik's cubes, stocks, tennis and many more.
 
 <!--
-- <a href="https://frederick-go.vercel.app/">My Website 📃</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
