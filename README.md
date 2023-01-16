@@ -12,7 +12,7 @@
 ## About Me 🙌
 
 - Frederick (Donghyeon) Go / 고동현
-- Pronouns: he / his / him
+- Pronouns: he / him
 - Based in Halifax, Nova Scotia, Canada
 - Currently seeking a position for **July 2023 and onwards**! 
 - Frederick.Go@dal.ca or hyeongo0317@gmail.com
