@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/frederick-go-1b9b56203/">
   <img align="left" alt="Frederick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://fred-goes-anywhere.space">My Website 📃</a>
 
 <br />
 
@@ -16,7 +17,6 @@
 - Based in Halifax, Nova Scotia, Canada
 - Currently seeking a position for **July 2023 and onwards**! 
 - Frederick.Go@dal.ca or hyeongo0317@gmail.com
-- <a href="https://fred-goes-anywhere.space">My Website 📃</a>
 
 ## My Education 📚
 
@@ -49,8 +49,6 @@
 <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/></span>
-
-Technology has been a big part of my life; hence, I am eager to learn all different technical fields such as blockchain, autonomous vehicles, and data science. In addition, I love instrumental music as I have been a woodwind instrument player for over 10 years now. Some of my other passions are Rubik's cubes, stocks, tennis and many more.
 
 <!--
 
