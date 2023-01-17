@@ -32,6 +32,7 @@
 <span><img src="https://img.shields.io/badge/Java-3776AB?style=flat&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HasKell-5D4F85?style=flat&logo=haskell&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
