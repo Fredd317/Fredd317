@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/frederick-go-1b9b56203/" target="_blank">
   <img align="left" alt="Frederick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://fred-goes-anywhere.space">My Website 📃</a>
+<a href="https://fred-goes-anywhere.space">My Website 📃</a><br/>
 <a href="https://fredsportflio.vercel.app/">My Newly Building Website</a>
 
 <br />
