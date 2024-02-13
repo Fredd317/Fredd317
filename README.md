@@ -1,12 +1,10 @@
 ### Hi there 👋 I am Frederick Go
 
-<a href="https://www.instagram.com/donghyeongo02/" target="_blank">
-  <img align="left" alt="Frederick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/frederick-go-1b9b56203/" target="_blank">
+
+<!-- <a href="https://www.linkedin.com/in/frederick-go-1b9b56203/" target="_blank">
   <img align="left" alt="Frederick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://fred-goes-anywhere.space">My Website 📃</a><br/><br/>
+</a> -->
+<a href="https://fred-goes-anywhere.space">My Website</a> 📃<br/><br/>
 <a href="https://2023portfolio-mu.vercel.app/">My Newly Building Website</a> (On progress)
 
 <br />
