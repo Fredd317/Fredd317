@@ -13,15 +13,12 @@
 - Frederick (Donghyeon) Go / 고동현
 - Pronouns: he / him
 - Based in Halifax, Nova Scotia, Canada
-- Currently seeking a position for **July 2023 and onwards**! 
-- Frederick.Go@dal.ca or hyeongo0317@gmail.com
+- hyeongo0317@gmail.com
 
 ## My Education 📚
 
-- Dalhousie University / September 2020 ~ **May 2023** 👨‍🎓
+- Dalhousie University (2023 👨‍🎓)
 - **Computer Science** Major / Statistics Minor
-- Certificate in **Data Science**
-- Certificate in Communication Technologies & Cyber Security
 
 ## Languages and Tools 👨‍💻
 
