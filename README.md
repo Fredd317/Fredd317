@@ -4,8 +4,7 @@
 <!-- <a href="https://www.linkedin.com/in/frederick-go-1b9b56203/" target="_blank">
   <img align="left" alt="Frederick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
-<a href="https://fred-goes-anywhere.space">My Website</a> 📃<br/><br/>
-<a href="https://2023portfolio-mu.vercel.app/">My Newly Building Website</a> (On progress)
+<a href="https://freddiego.dev">My Website</a> 📃<br/><br/>
 
 <br />
 
