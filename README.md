@@ -12,7 +12,7 @@
 
 - Frederick (Donghyeon) Go / 고동현
 - Pronouns: he / him
-- Based in Halifax, Nova Scotia, Canada
+- Based in Canada
 - hyeongo0317@gmail.com
 
 ## My Education 📚
