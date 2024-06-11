@@ -1,17 +1,11 @@
 ### Hi there 👋 I am Frederick Go
 
-
-<!-- <a href="https://www.linkedin.com/in/frederick-go-1b9b56203/" target="_blank">
-  <img align="left" alt="Frederick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-<a href="https://freddiego.dev">My Website</a> 📃<br/><br/>
-
-<br />
+<a href="https://freddiego.dev">My Website</a> 📃<br/>
 
 ## About Me 🙌
 
 - Frederick (Donghyeon) Go / 고동현
-- Pronouns: he / him
+- Pronouns: he / him 😄
 - Based in Canada
 - hyeongo0317@gmail.com
 
